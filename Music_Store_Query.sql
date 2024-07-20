@@ -224,7 +224,6 @@ ON cc.billing_country = ms.billing_country
 WHERE cc.total_spending = ms.max_spending
 ORDER BY 1;
 
-
-/* source: www.youtube.com/@RishabhMishraOfficial */
+-- Created by Sanket Raj
 
 /* Thank You :) */
