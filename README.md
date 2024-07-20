@@ -1,2 +1,13 @@
 # SQL_Project_Music_Store_Analysis
- The project aims to analyze the data from a music store to gain insights into sales, customer behavior, and the performance of different products (like albums, artists, genres).  Data Source: The data comes from the store's database, which includes tables like Customers, Invoices, InvoiceItems, Tracks, Albums, Artists, and Genres.  Tasks: You’ll perform various tasks using SQL queries to answer specific questions
+SQL project to analyze online music store data
+
+This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+
+> Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
+
+## Database and Tools
+* Postgre SQL
+* PgAdmin4
+
+Schema- Music Store Database  
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
