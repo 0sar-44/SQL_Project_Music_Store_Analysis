@@ -1,0 +1,2 @@
+# SQL_Project_Music_Store_Analysis
+ The project aims to analyze the data from a music store to gain insights into sales, customer behavior, and the performance of different products (like albums, artists, genres).  Data Source: The data comes from the store's database, which includes tables like Customers, Invoices, InvoiceItems, Tracks, Albums, Artists, and Genres.  Tasks: You’ll perform various tasks using SQL queries to answer specific questions
