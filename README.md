@@ -12,4 +12,5 @@ Genre Popularity: Determine which music genres are most popular among customer
 
 
 Schema- Music Store Database  
+![image](https://github.com/0sar-44/SQL_Project_Music_Store_Analysis/blob/main/Music%20Sales%20_analysis%20.png)
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
